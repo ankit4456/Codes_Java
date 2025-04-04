@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guava-30.1.1-jre.jar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/Fast Request – API Buddy/lib/guava-30.1.1-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.78.jar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/Fast Request – API Buddy/lib/fastjson-1.2.78.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
